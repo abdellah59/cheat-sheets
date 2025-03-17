@@ -65,3 +65,5 @@
     Gras → **texte**
     Italique → *texte*
     Barré → ~~texte~~
+
+---
