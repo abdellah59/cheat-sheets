@@ -187,3 +187,5 @@ Les raccourcis dans le terminal permettent de naviguer rapidement et de gagner d
 | Quitter sans enregistrer                 | `:q!`                     |
 | Annuler                                 | `u`                       |
 | Refaire                                  | `Ctrl + r`                |
+
+---
